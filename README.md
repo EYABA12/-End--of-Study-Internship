@@ -45,7 +45,6 @@ Back-End:
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="30"/> FastAPI  
 
  Testing & Automation: 
-<img src="https://robotframework.org/images/robotframework.png" width="30"/> Robot Framework 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="30"/> Jenkins 
 <img src="https://img.icons8.com/ios-filled/50/000000/ssh.png" width="30"/> SSH  
 

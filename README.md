@@ -69,7 +69,7 @@ Test cases trigger physical signals on the mock-up, executed and logged in real 
 
 Watch the application demo here:
 
-[![Watch the Demo](Images/demo-SignUp.png)](https://vimeo.com/1165653912)
+[![Watch the Demo](Images/SignUp.png)](https://vimeo.com/1165653912)
 
 ---
 

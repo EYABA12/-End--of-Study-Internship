@@ -92,16 +92,14 @@ Watch the application demo here:
 ### 🔹 File Management  
 (Admin can upload Excel files with users; system automatically imports them)  
 ![File Management](Images/FileManager.png)
-
-### 🔹 Automation Testing Interface (Git)  
-(Test cases synchronized with Git repository)  
-![Automation-Testing-Git](Images/Automation-Testing-Git.png)  
-![Git Repository](Images/git-repo.png)
-
 ### 🔹 Automation Testing Interface (Local)  
 (Testers can import test cases from their local machine)  
 ![Automation Testing - Local](Images/Automation-Testing-Local.png)
-
+### 🔹 Automation Testing Interface (Git)  
+Testers can import test cases from a Git repository.  
+![Automation Testing Git](Images/Automation-Testing-Git.png)  
+*(Test cases synchronized with the Git repository)*  
+![Git Repository](Images/git-repo.png)
 ### 🔹 Testing with Jenkins Interface  
 ![Testing with Jenkins](Images/Testing-with-jenkins.png)
 

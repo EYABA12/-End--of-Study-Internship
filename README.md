@@ -100,7 +100,7 @@ Watch the application demo here:
 
 ### 🔹 Automation Testing Interface (Local)  
 (Testers can import test cases from their local machine)  
-![Automation Testing - Local](Images/Automation-Testing-local.png)
+![Automation Testing - Local](Images/Automation-Testing-Local.png)
 
 ### 🔹 Testing with Jenkins Interface  
 ![Testing with Jenkins](Images/Testing-with-jenkins.png)

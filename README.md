@@ -127,7 +127,19 @@ Testers can import test cases from a Git repository.
 ![Jira Interface](Images/Jira-interface.png)
 
 ---
+## Automatic Deployment
 
+The application is containerized with Docker and Docker-Compose for both frontend and backend, ensuring all dependencies are included and the app runs consistently in any environment.  
+
+A **Jenkins CI/CD pipeline** automates the deployment:  
+1. Developers push code to Git.  
+2. Jenkins rebuilds Docker images for frontend and backend.  
+3. Updated images are automatically deployed to the production server (IP: 10.20.0.57).  
+
+Thanks to this setup, the app is **accessible via a simple URL** without any local installation.  
+
+![Application Architecture](Images/architecture.png)  
+---
 ## 🏆 Achievement
 
 🏅 Selected as **Best Final Year Project – ENET’Com Promotion 2025**  

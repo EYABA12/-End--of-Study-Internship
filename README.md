@@ -21,31 +21,33 @@ Testers can **download logs and reports**. For software bugs, testers can create
 
 ## 🛠️ Technologies Used
 
-### 💻 Front-End
-![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg) Angular  
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) TypeScript  
-![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg) Bootstrap  
+### 🛠️ Technologies Used
 
-### 🔧 Back-End
-![Spring Boot](https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original.svg) Spring Boot  
-![REST API](https://img.icons8.com/ios-filled/50/000000/api-settings.png) REST APIs  
-![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png) FastAPI  
+💻 Front-End: 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="30"/> Angular 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/> TypeScript 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30"/> Bootstrap  
 
-### 🧪 Testing & Automation
-![Robot Framework](https://robotframework.org/images/robotframework.png) Robot Framework  
-![Jenkins](https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg) Jenkins  
-![SSH](https://img.icons8.com/ios-filled/50/000000/ssh.png) SSH  
+🔧 Back-End: 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original.svg" width="30"/> Spring Boot 
+<img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png" width="30"/> REST APIs 
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="30"/> FastAPI  
 
-### 🗄 Database
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) MySQL  
+🧪 Testing & Automation: 
+<img src="https://robotframework.org/images/robotframework.png" width="30"/> Robot Framework 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="30"/> Jenkins 
+<img src="https://img.icons8.com/ios-filled/50/000000/ssh.png" width="30"/> SSH  
 
-### 🚀 DevOps
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) Docker & Docker Compose  
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) Git  
+🗄 Database: 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/> MySQL  
 
-### 📊 Project Management
-![Scrum](https://img.icons8.com/ios-filled/50/000000/scrum.png) Scrum methodology  
-![Jira](https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg) Jira  
+🚀 DevOps: 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/> Docker & Compose 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/> Git  
+
+📊 Project Management: 
+<img src="https://img.icons8.com/ios-filled/50/000000/scrum.png" width="30"/> Scrum 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="30"/> Jira
 
 ---
 

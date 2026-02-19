@@ -21,31 +21,26 @@ Testers can **download logs and reports**. For software bugs, testers can create
 
 ## 🛠️ Technologies Used
 
-### 🛠️ Technologies Used
-
-💻 Front-End: 
+ Front-End: 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="30"/> Angular 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/> TypeScript 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30"/> Bootstrap  
 
-🔧 Back-End: 
+ Back-End: 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original.svg" width="30"/> Spring Boot 
 <img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png" width="30"/> REST APIs 
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="30"/> FastAPI  
 
-🧪 Testing & Automation: 
-<img src="https://robotframework.org/images/robotframework.png" width="30"/> Robot Framework 
+Testing & Automation: 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="30"/> Jenkins 
-<img src="https://img.icons8.com/ios-filled/50/000000/ssh.png" width="30"/> SSH  
 
-🗄 Database: 
+ Database: 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/> MySQL  
-
-🚀 DevOps: 
+ DevOps: 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/> Docker & Compose 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/> Git  
 
-📊 Project Management: 
+ Project Management: 
 <img src="https://img.icons8.com/ios-filled/50/000000/scrum.png" width="30"/> Scrum 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="30"/> Jira
 

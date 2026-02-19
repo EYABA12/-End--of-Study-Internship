@@ -94,7 +94,7 @@ Watch the application demo here:
 ![File Management](Images/FileManager.png)
 ### 🔹 Automation Testing Interface (Local)  
 (Testers can import test cases from their local machine)  
-![Automation Testing - Local](Images/Automation-Testing-Local.png)
+![Automation Testing - Local](Images/Automation -Testing-Local.png)
 ### 🔹 Automation Testing Interface (Git)  
 Testers can import test cases from a Git repository.  
 ![Automation Testing Git](Images/Automation-Testing-Git.png)  

@@ -24,8 +24,9 @@ The platform supports **three types of testing**:
   - Executes the test and returns results to Jenkins, displayed in the application
 
 After the test, the tester can download the log and report files.
-If the test fails, it might be because of a hardware problem, a bug, or simply a mistake. if it is a bug  The tester should inform the developer to fix the issue.
-To make communication easier between testers and developers, I integrated Api Jira into the application so testers can create bug tickets directly from the app.
+If the test fails, it might be because of a hardware problem, a bug, or simply a mistake.
+If it is a bug  The tester should inform the developer to fix the issue.
+To make communication easier between testers and developers=> I integrated Api Jira into the application so testers can create bug tickets directly from the app.
 Finally, I deployed the application on a server so testers can access it using a simple URL, without installing anything. 
 
 ---

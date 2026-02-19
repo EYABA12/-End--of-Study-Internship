@@ -95,7 +95,7 @@ Watch the application demo here:
 
 ### 🔹 Automation Testing Interface (Git)  
 (Test cases synchronized with Git repository)  
-![Automation Testing - Git](Images/Automation-Testing-Git.png)  
+![Automation-Testing- Git](Images/Automation-Testing-Git.png)  
 ![Git Repository](Images/git repo.png)
 
 ### 🔹 Automation Testing Interface (Local)  

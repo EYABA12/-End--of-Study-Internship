@@ -23,7 +23,7 @@ The platform supports **three types of testing**:
   - Communicates with the mock-up via SSH  
   - Executes the test and returns results to Jenkins, displayed in the application
 
-After running a test, the tester can **download the log and report files** 📄.  
+After running a test, the tester can download the log and report files 
 
 ❌ **If the test fails** → it might be due to a **hardware problem**, a **bug**, or a **mistake**.  
 

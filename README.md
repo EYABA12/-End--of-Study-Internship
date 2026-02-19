@@ -83,7 +83,7 @@ Watch the application demo here:
 
 ### 🔹 Home Page  
 (User selects the type of mock-up: Light mock-up for car lights, Window mock-up for windows, etc.)  
-![Home Page](Images/Home-page.png)
+![Home Page](Images/HomePage.png)
 
 ### 🔹 User Management  
 (Admin can delete, edit, accept/reject users, change roles, and invite to Jira)  

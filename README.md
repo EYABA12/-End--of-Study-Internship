@@ -32,32 +32,29 @@ Finally, I deployed the application on a server so testers can access it using a
 
 ## 🛠️ Technologies Used
 
-### 🛠️ Technologies Used
+###  Front-End
+-  Angular  
+-  TypeScript  
+-  Bootstrap  
 
- Front-End: 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="30"/> Angular 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/> TypeScript 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30"/> Bootstrap  
+###  Back-End
+-  Spring Boot  
+-  REST APIs  
+- FastAPI (test execution communication) 
 
-Back-End: 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30"/> Spring Boot  
-<img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png" width="30"/> REST APIs 
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="30"/> FastAPI  
+###  Database
+-  MySQL  
 
- Testing & Automation: 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="30"/> Jenkins 
-<img src="https://img.icons8.com/ios-filled/50/000000/ssh.png" width="30"/> SSH  
+###  DevOps
+-  Docker & Docker Compose  
+-  CI/CD Automation
+- Jenkins  
 
- Database: 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/> MySQL  
+## 👥 Team & Methodology
 
-DevOps: 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/> Docker & Compose 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/> Git  
-
- Project Management: 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Scrum_logo.png" width="30"/> Scrum  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Jira_logo.svg" width="30"/> Jira
+- Developed in a team using **Agile Scrum**  
+- **Jira** for task tracking  
+- **Git** for version control  
 ---
 
 ## 🔌 Hardware Communication
@@ -67,13 +64,6 @@ Test cases trigger physical signals on the mock-up, executed and logged in real 
 
 ---
 
-## 👥 Team & Methodology
-
-- Developed in a team using **Agile Scrum**  
-- **Jira** for task tracking  
-- **Git** for version control  
-
----
 
 ## 🎬 Demo
 

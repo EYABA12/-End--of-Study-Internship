@@ -11,39 +11,54 @@ I developed a web-based testing platform that allows testers to execute tests on
 
 The platform supports **three types of testing**:
 
-1. **Manual Testing** – testers execute tests manually by interacting with the mock-up’s buttons.  
-2. **Automation Testing** – testers write test cases using **Robot Framework**, which are sent to the mock-up for automatic execution; results are returned directly to the platform.  
-3. **Jenkins Pipeline Execution** – testers select a test case from the application; a Jenkins pipeline is automatically triggered, communicates with the mock-up via SSH, executes the test, and returns results to Jenkins, displayed in the application.
+- **Manual Testing**  
+  Testers execute tests manually by interacting with the mock-up’s buttons.
 
-Testers can **download logs and reports**. For software bugs, testers can create **Jira tickets** directly from the app. The application is **deployed on a server**, allowing remote, end-to-end testing without local installation.
+- **Automation Testing**  
+  Testers write test cases using **Robot Framework**, which are sent to the mock-up for automatic execution; results are returned directly to the platform.
+
+- **Jenkins Pipeline Execution**  
+  - Testers select a test case from the application  
+  - A Jenkins pipeline is automatically triggered  
+  - Communicates with the mock-up via SSH  
+  - Executes the test and returns results to Jenkins, displayed in the application
+
+After the test, the tester can download the log and report files.
+If the test fails, it might be because of a hardware problem, a bug, or simply a mistake. if it is a bug  The tester should inform the developer to fix the issue.
+To make communication easier between testers and developers, I integrated Api Jira into the application so testers can create bug tickets directly from the app.
+Finally, I deployed the application on a server so testers can access it using a simple URL, without installing anything. 
 
 ---
 
 ## 🛠️ Technologies Used
+
+### 🛠️ Technologies Used
 
  Front-End: 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="30"/> Angular 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/> TypeScript 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30"/> Bootstrap  
 
- Back-End: 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original.svg" width="30"/> Spring Boot 
+Back-End: 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30"/> Spring Boot  
 <img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png" width="30"/> REST APIs 
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="30"/> FastAPI  
 
-Testing & Automation: 
+ Testing & Automation: 
+<img src="https://robotframework.org/images/robotframework.png" width="30"/> Robot Framework 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="30"/> Jenkins 
+<img src="https://img.icons8.com/ios-filled/50/000000/ssh.png" width="30"/> SSH  
 
  Database: 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/> MySQL  
- DevOps: 
+
+DevOps: 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/> Docker & Compose 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/> Git  
 
  Project Management: 
-<img src="https://img.icons8.com/ios-filled/50/000000/scrum.png" width="30"/> Scrum 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="30"/> Jira
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Scrum_logo.png" width="30"/> Scrum  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Jira_logo.svg" width="30"/> Jira
 ---
 
 ## 🔌 Hardware Communication

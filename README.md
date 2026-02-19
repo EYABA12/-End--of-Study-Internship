@@ -138,7 +138,7 @@ A **Jenkins CI/CD pipeline** automates the deployment:
 
 Thanks to this setup, the app is **accessible via a simple URL** without any local installation.  
 
-![Application Architecture](Images/architecture.png)  
+![Application Architecture](Images/Architecture.png)  
 ---
 ## 🏆 Achievement
 
